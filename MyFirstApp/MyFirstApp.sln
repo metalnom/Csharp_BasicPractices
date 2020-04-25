@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadBook.CsharpBasic.Chapte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadBook.CsharpBasic.Chapter04", "..\RoadBook.CsharpBasic.Chapter04\RoadBook.CsharpBasic.Chapter04.csproj", "{B55539EE-A23A-4A4F-BC72-642C5EF0F780}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadBook.CsharpBasic.Chapter05", "..\RoadBook.CsharpBasic.Chapter05\RoadBook.CsharpBasic.Chapter05.csproj", "{9836B810-0F1B-4CFA-BD53-FB1F96570D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadBook.CsharpBasic.Chapter06", "..\RoadBook.CsharpBasic.Chapter06\RoadBook.CsharpBasic.Chapter06.csproj", "{B9DEC0D5-DAE4-4421-8253-F2CC2CDF075F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B55539EE-A23A-4A4F-BC72-642C5EF0F780}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B55539EE-A23A-4A4F-BC72-642C5EF0F780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B55539EE-A23A-4A4F-BC72-642C5EF0F780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9836B810-0F1B-4CFA-BD53-FB1F96570D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9836B810-0F1B-4CFA-BD53-FB1F96570D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9836B810-0F1B-4CFA-BD53-FB1F96570D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9836B810-0F1B-4CFA-BD53-FB1F96570D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DEC0D5-DAE4-4421-8253-F2CC2CDF075F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DEC0D5-DAE4-4421-8253-F2CC2CDF075F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DEC0D5-DAE4-4421-8253-F2CC2CDF075F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DEC0D5-DAE4-4421-8253-F2CC2CDF075F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
