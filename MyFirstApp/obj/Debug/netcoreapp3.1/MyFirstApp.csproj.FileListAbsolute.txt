@@ -1,0 +1,13 @@
+D:\c_sharp_src\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.exe
+D:\c_sharp_src\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.deps.json
+D:\c_sharp_src\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.json
+D:\c_sharp_src\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.dev.json
+D:\c_sharp_src\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.dll
+D:\c_sharp_src\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.pdb
+D:\c_sharp_src\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csprojAssemblyReference.cache
+D:\c_sharp_src\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\c_sharp_src\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfoInputs.cache
+D:\c_sharp_src\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfo.cs
+D:\c_sharp_src\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.dll
+D:\c_sharp_src\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.pdb
+D:\c_sharp_src\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.genruntimeconfig.cache
