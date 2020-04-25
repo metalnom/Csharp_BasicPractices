@@ -1,0 +1,13 @@
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.exe
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.deps.json
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.runtimeconfig.json
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.runtimeconfig.dev.json
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.dll
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.pdb
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.csprojAssemblyReference.cache
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.csproj.CoreCompileInputs.cache
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.AssemblyInfoInputs.cache
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.AssemblyInfo.cs
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.dll
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.pdb
+D:\c_sharp_src\RoadBook.CsharpBasic.Chapter03\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter03.genruntimeconfig.cache
