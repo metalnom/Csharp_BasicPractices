@@ -6,8 +6,8 @@ namespace RoadBook.CsharpBasic.Chapter06
     {
         static void Main(string[] args)
         {
-            Examples.Ex007 ex007 = new Examples.Ex007();
-            ex007.Run();
+            Examples.Ex009 ex009 = new Examples.Ex009();
+            ex009.Run();
         }
     }
 }
